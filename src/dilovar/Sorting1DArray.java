@@ -20,6 +20,9 @@ public class Sorting1DArray {
 
         }
         System.out.println(Arrays.toString(num));
+        //you can solve also by finding minimum assigning it to new array then removing it
+        //use treeset
+        //use collection.sort
 
     }
 
